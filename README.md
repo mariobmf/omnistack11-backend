@@ -26,7 +26,7 @@ O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribui�
 
 ```bash
 # Clonar o Repositório
-$ git clone https://github.com/DanielObara/NLW-1.0
+$ git clone https://github.com/mariobmf/omnistack11-backend.git
 
 # Entrar no Repositório
 $ cd /omnistack11-backend
